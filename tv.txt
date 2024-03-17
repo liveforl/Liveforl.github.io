@@ -79,7 +79,7 @@ CHC高清电影,http://60.211.167.226:8888/newlive/live/hls/57/live.m3u8
 三沙卫视,http://125.210.152.19:9123/live/hzgq-ssws-h264.m3u8
 延边卫视,http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
 
-山东,#genre#
+各省频道,#genre#
 山东卫视,http://livealone.iqilu.com/iqilu/sdtvhjOF03kn.m3u8
 山东齐鲁,http://livealone.iqilu.com/iqilu/qlpdhjOF03kn.m3u8
 山东文旅,http://livealone.iqilu.com/iqilu/yspdhjOF03kn.m3u8
@@ -89,8 +89,6 @@ CHC高清电影,http://60.211.167.226:8888/newlive/live/hls/57/live.m3u8
 山东农科,http://livealone.iqilu.com/iqilu/nkpdhjOF03kn.m3u8
 山东体育休闲,http://livealone.iqilu.com/iqilu/typdhjOF03kn.m3u8
 山东少儿,http://livealone.iqilu.com/iqilu/sepdhjOF03kn.m3u8
-
-浙江,#genre#
 浙江卫视HD,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 浙江钱江都市,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 浙江经济生活,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
@@ -121,6 +119,29 @@ CHC高清电影,http://60.211.167.226:8888/newlive/live/hls/57/live.m3u8
 浙江国际,https://ali-m-l.cztv.com/channels/lantian/channel010/360p.m3u8
 好易购,https://ali-m-l.cztv.com/channels/lantian/channel011/360p.m3u8
 浙江之江记录,https://ali-m-l.cztv.com/channels/lantian/channel012/360p.m3u8
+青岛新闻综合,http://hlspull.qtv.com.cn/gwepn2sr/channel/969b06fca3f82c40de59171b3eb9428c/index.m3u8
+潍坊新闻综合,https://wfrtv-live-tz.wfcmw.cn:5443/live/wftv1.m3u8
+潍坊经济生活,https://wfrtv-live-tz.wfcmw.cn:5443/live/wftv2.m3u8
+潍坊影视综艺,https://wfrtv-live-tz.wfcmw.cn:5443/live/wftv3.m3u8
+潍坊科教文旅,https://wfrtv-live-tz.wfcmw.cn:5443/live/wftv4.m3u8
+沧州新闻综合,http://czlive.czgd.tv:85/live/xnyt.m3u8
+沧州公共频道,http://czlive.czgd.tv:85/live/xnet.m3u8
+河沧州影视娱乐,http://czlive.czgd.tv:85/live/xnst.m3u8
+广西综艺旅游,https://hlscdn.liangtv.cn/live/de0f97348eb84f62aa6b7d8cf0430770/dd505d87880c478f901f38560ca4d4e6.m3u8
+广西综艺旅游,https://hls.cdn.liangtv.cn/live/de0f97348eb84f62aa6b7d8cf0430770/dd505d87880c478f901f38560ca4d4e6.m3u8
+广西国际,https://hlscdn.liangtv.cn/live/0234c48e0bc24fe1b41b9999a253e581/1075ee38e04f490690f6a36a16e09c79.m3u8
+广西国际,https://hls.cdn.liangtv.cn/live/0234c48e0bc24fe1b41b9999a253e581/1075ee38e04f490690f6a36a16e09c79.m3u8
+桂林新闻综合,http://pull.gltvs.com/live/glxw/playlist.m3u8?v=b0528684bf934e120e1c30fc808e6576&t=1796868188
+贺州综合频道,http://zhz.gxhzxw.com:2935/live/HZXW-HD/playlist.m3u8
+横州新闻综合,http://live.nnnews.net/video/s10004-hztv-hd/index.m3u8
+罗城综合,http://www.3jlc.cn/lctvlive/lcm.m3u8
+罗城综合,http://111.12.75.177:9100/lctvlive/lch.m3u8
+藤县综合,http://play.txdst.cn/live/txtv.m3u8
+庄河综合频道,http://223.100.166.184:9090/hls/5T8gO1SYg/index.m3u8
+泉州新闻综合,rtmp://live.qztv.cn/live/news
+泉州闽南语,rtmp://live.qztv.cn/live/mny
+泰兴新闻频道,http://sj.smarttaixing.com:1935/live/_definst_/txzb/playlist.m3u8
+四川科教频道,http://182.150.115.21:8030/pcgacg/pcgacg_0.m3u8
 
 港澳湾,#genre#
 港台电视31,https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream5/streamPlaylist.m3u8
