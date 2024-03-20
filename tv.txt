@@ -80,6 +80,20 @@ CHC高清电影,http://60.211.167.226:8888/newlive/live/hls/57/live.m3u8
 延边卫视,http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
 
 各省频道,#genre#
+内蒙古卫视,https://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=dc348a27bd36fe1bd63562af5e7269ea&txTime=771EF880
+内蒙古蒙古语卫视,https://livestream-bt.nmtv.cn/nmtv/2315general.m3u8?txSecret=e2b255285dd119a92c8aa5cdf00f8b84&txTime=771EF880
+新闻综合,https://livestream-bt.nmtv.cn/nmtv/2316general.m3u8?txSecret=173f71025a2de64458989cfb281a0a37&txTime=771E8800
+经济生活,https://livestream-bt.nmtv.cn/nmtv/2317general.m3u8?txSecret=8e4b7cf6a2c8a75f74aef1a8a07cef43&txTime=771E8800
+少儿频道,https://livestream-bt.nmtv.cn/nmtv/2318general.m3u8?txSecret=ff5a1fd70ea228ee35b0d29895f37c56&txTime=771E8800
+文体娱乐,https://livestream-bt.nmtv.cn/nmtv/2319general.m3u8?txSecret=82ed51a2a4cbf85b62fec8ef2bfe4529&txTime=771E8800
+农牧频道,https://livestream-bt.nmtv.cn/nmtv/2320general.m3u8?txSecret=b5e44fcd9473993661f17746112ad1b7&txTime=771E8800
+内蒙古蒙古语文化,https://livestream-bt.nmtv.cn/nmtv/2321general.m3u8?txSecret=2250268a1d326dbbc4cbf0ba32649ca5&txTime=771E8800
+深圳都市,http://livepull-tcyzb.sztv.com.cn/live/dushi01.m3u8
+深圳众创,https://lglivepull.sznews.com/live/2645.m3u8
+深圳龙岗,https://lglivepull.sznews.com/live/2647.m3u8
+深圳东部,https://lglivepull.sznews.com/live/2646.m3u8
+番禺电视台,http://video.epaper.pybtv.cn:8080/live/rtmp_live_demo.flv
+增城电视台,http://pl1.cloud.dayang.com.cn/live/10062_E5i2s6.m3u8
 山东卫视,http://livealone.iqilu.com/iqilu/sdtvhjOF03kn.m3u8
 山东齐鲁,http://livealone.iqilu.com/iqilu/qlpdhjOF03kn.m3u8
 山东文旅,http://livealone.iqilu.com/iqilu/yspdhjOF03kn.m3u8
